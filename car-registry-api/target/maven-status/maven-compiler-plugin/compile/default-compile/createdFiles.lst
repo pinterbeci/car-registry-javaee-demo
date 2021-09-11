@@ -1,0 +1,12 @@
+hu\pinterbeci\java\course\maven\service\ParkingStationService.class
+hu\pinterbeci\java\course\maven\service\AppUserService.class
+hu\pinterbeci\java\course\maven\entity\AppUser.class
+hu\pinterbeci\java\course\maven\service\CoreService.class
+hu\pinterbeci\java\course\maven\entity\Car.class
+hu\pinterbeci\java\course\maven\entity\MenuItem.class
+hu\pinterbeci\java\course\maven\entity\AbstractEntity.class
+hu\pinterbeci\java\course\maven\service\CarService.class
+hu\pinterbeci\java\course\maven\entity\AppUserRole.class
+hu\pinterbeci\java\course\maven\entity\AbstractCar.class
+hu\pinterbeci\java\course\maven\entity\ParkingStation.class
+hu\pinterbeci\java\course\maven\service\MenuItemService.class
