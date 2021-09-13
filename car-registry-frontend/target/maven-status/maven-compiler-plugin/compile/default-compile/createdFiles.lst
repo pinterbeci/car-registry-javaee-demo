@@ -1,0 +1,11 @@
+hu\pinterbeci\java\course\maven\mbean\model\LoginModel.class
+hu\pinterbeci\java\course\maven\mbean\LoginRequestBean.class
+hu\pinterbeci\java\course\maven\mbean\model\LoggedInUserModel.class
+hu\pinterbeci\java\course\maven\mbean\OwnerCRUDMBean.class
+hu\pinterbeci\java\course\maven\mbean\CoreCRUDMBean.class
+hu\pinterbeci\java\course\maven\mbean\LoggedInUserBean.class
+hu\pinterbeci\java\course\maven\mbean\ParkingStationCRUDMBean.class
+hu\pinterbeci\java\course\maven\converter\AppOwnerConverter.class
+hu\pinterbeci\java\course\maven\mbean\AppUserCRUDMBean.class
+hu\pinterbeci\java\course\maven\mbean\OwnerAwareCRUDMBean.class
+hu\pinterbeci\java\course\maven\mbean\CarCRUDMBean.class

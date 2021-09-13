@@ -27,7 +27,7 @@ public class Car extends AbstractCar{
 
     @ManyToOne
     @JoinColumn(name = "owner_id")
-    private AppUser owner;
+    private Owner owner;
 
     public String getBrand() {
         return brand;
@@ -61,11 +61,11 @@ public class Car extends AbstractCar{
         this.lpn = lpn;
     }
 
-    public AppUser getOwner() {
+    public Owner getOwner() {
         return owner;
     }
 
-    public void setOwner(AppUser owner) {
+    public void setOwner(Owner owner) {
         this.owner = owner;
     }
 }
